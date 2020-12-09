@@ -62,8 +62,6 @@ fn main() {
             println!("Missing ID is {}", ids[i] + 1);
         }
     }
-
-    // println!("{:?}", ids);
 }
 
 // The output is wrapped in a Result to allow matching on errors
